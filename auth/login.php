@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 <body>
-<div class="container">
+<div class="container login-container">
 <div class="login-box">
     <h2>Admin Login</h2>
 
