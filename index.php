@@ -1,4 +1,6 @@
 <?php
-require 'config/db.php';
-echo "Database connected successfully";
+
+header("Location: auth/login.php");
+exit();
+
 ?>
